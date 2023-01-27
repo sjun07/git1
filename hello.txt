@@ -8,4 +8,4 @@ git add 파일명
 git commit -m "내 첫번째 커밋"
 git config --global user.name "sjun07"
 
-git config --global user.name "sjun071016@naver.com"
+git config --global user.email "sjun071016@naver.com"
