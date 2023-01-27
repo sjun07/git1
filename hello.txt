@@ -1,0 +1,11 @@
+아무말이나 쳐보자!
+ctrl + s
+ctrl + ~
+배시셸에서 글이 안써지는 문제가 생기면 ctrl + c enter
+git init 은 이 디렉토리를 깃에서 관리하는 디렉토리로 만드는거야(hellow 옆에 U)
+스테이지에 더하는 명령어는
+git add 파일명
+git commit -m "내 첫번째 커밋"
+git config --global user.name "sjun07"
+
+git config --global user.name "sjun071016@naver.com"
